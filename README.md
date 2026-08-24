@@ -115,8 +115,8 @@ You can explore my complete collection of projects and practice work here:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashdewangan850&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdewangan850&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashdewangan850&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdewangan850&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" />
 </p>
 
 ---
@@ -124,8 +124,9 @@ You can explore my complete collection of projects and practice work here:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashdewangan850&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=yashdewangan850&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
