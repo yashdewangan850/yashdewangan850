@@ -116,18 +116,17 @@ You can explore my complete collection of projects and practice work here:
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img 
- src="https://github-readme-stats.vercel.app/api?username=yashdewangan850&show_icons=true&theme=tokyonight&hide_border=true"
- alt="Yash's GitHub Stats"
-/>
-
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdewangan850&layout=compact&theme=tokyonight&hide_border=true"
- alt="Top Languages"
-/>
-
+  <a href="https://github.com/yashdewangan850">
+    <img src="https://github-stats-extended.vercel.app/api?username=yashdewangan850" alt="Yash Kumar Dewangan GitHub Stats" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/yashdewangan850">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yashdewangan850&layout=compact" alt="Top Languages" />
+  </a>
+</p>
+
 
 
 ---
