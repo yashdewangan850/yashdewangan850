@@ -112,25 +112,6 @@ Modern developer portfolio designed to showcase projects, skills, experience and
 <tr>
 <td width="50%">
 
-### 📍 GPS Attendance System
-
-Location-based attendance application using browser geolocation APIs.
-
-**Features**
-
-* Location detection
-* Attendance tracking
-* Responsive interface
-* User-friendly dashboard
-
-**Stack**
-
-`React.js` `JavaScript`
-`Tailwind CSS` `Geolocation API`
-
-</td>
-
-<td width="50%">
 
 ### 🐳 Full Stack Docker Application
 
@@ -201,9 +182,6 @@ Containerized full-stack application demonstrating modern development and deploy
   />
 </p>
 
----
-
-
 
 ---
 
@@ -218,19 +196,6 @@ Containerized full-stack application demonstrating modern development and deploy
 | 🐳 DevOps        | Docker · Cloud · Deployment      |
 | 🧠 DSA           | Algorithms · Problem Solving     |
 | 🏗️ Architecture | Clean Code · Scalable Systems    |
-
----
-
-# 📚 2026 Goals
-
-* 🚀 Build production-ready full-stack applications
-* ⚛️ Master advanced React and Next.js
-* 🔧 Improve backend architecture skills
-* 🤖 Build practical AI-powered products
-* 🐳 Strengthen Docker and cloud knowledge
-* 🧠 Improve DSA and competitive problem solving
-* 🌍 Contribute to open-source projects
-* 💼 Grow as a professional Software Engineer
 
 ---
 
