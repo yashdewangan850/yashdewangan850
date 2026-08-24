@@ -127,55 +127,35 @@ AI-focused web application built with modern technologies and TypeScript.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=yashdewangan850&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"
-    width="49%"
-  />
-
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdewangan850&layout=compact&theme=tokyonight&hide_border=true"
- alt="Top Languages"
- width="49%"
-/>
-
+  <img src="./assets/github-stats.svg" width="49%" />
+  <img src="./assets/top-languages.svg" width="49%" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=yashdewangan850&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="./assets/streak.svg" width="70%" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=yashdewangan850&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-    alt="GitHub Trophies"
-  />
+  <img src="./assets/trophies.svg" width="100%" />
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yashdewangan850&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
+  <img src="./assets/activity.svg" width="100%" />
 </p>
 
 ---
