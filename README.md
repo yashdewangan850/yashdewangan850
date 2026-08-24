@@ -197,15 +197,9 @@ My GitHub profile includes my latest repositories, contributions and development
 
 ---
 
-# 🐍 Contribution Snake
+🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/yashdewangan850/yashdewangan850/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</p>
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashdewangan850/yashdewangan850/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashdewangan850/yashdewangan850/output/github-contribution-grid-snake.svg" /> <img src="https://raw.githubusercontent.com/yashdewangan850/yashdewangan850/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" /> </picture> </p>
 
 # 🎯 Open To Opportunities
 
