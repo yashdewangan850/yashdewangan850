@@ -173,28 +173,39 @@ My GitHub profile includes my latest repositories, contributions and development
 | 🧠 Problem Solving | DSA & Algorithms               |
 
 ---
-
-🔥 GitHub Streak
-
-<p align="center"> <a href="https://github.com/yashdewangan850"> <img src="https://img.shields.io/badge/GitHub-Streak%20%26%20Activity-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-
-<p align="center"> <b>Consistently building, learning and contributing on GitHub 🚀</b> </p>
-
-🏆 Developer Highlights
+# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/💻_Full_Stack-MERN-0D1117?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/⚛️_Frontend-React%20%7C%20Next.js-0D1117?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🔧_Backend-Node%20%7C%20Express-0D1117?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🤖_AI-Gemini%20%7C%20AI%20Apps-0D1117?style=for-the-badge" />
-
+  <img
+    src="https://streak-stats.demolab.com/?user=yashdewangan850&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+    width="70%"
+  />
 </p>
 
 ---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yashdewangan850&theme=tokyo-night&hide_border=true&area=true&custom_title=Yash%20Kumar%20Dewangan%20-%20Contribution%20Graph"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/yashdewangan850/yashdewangan850/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 
 # 🎯 Open To Opportunities
 
