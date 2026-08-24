@@ -174,21 +174,25 @@ My GitHub profile includes my latest repositories, contributions and development
 
 ---
 
-# 📚 Currently Learning
+🔥 GitHub Streak
 
-```text
-Advanced React & Next.js
-        ↓
-TypeScript
-        ↓
-Backend Architecture
-        ↓
-Docker & Cloud
-        ↓
-AI Application Development
-        ↓
-Data Structures & Algorithms
-```
+<p align="center"> <a href="https://github.com/yashdewangan850"> <img src="https://img.shields.io/badge/GitHub-Streak%20%26%20Activity-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
+<p align="center"> <b>Consistently building, learning and contributing on GitHub 🚀</b> </p>
+
+🏆 Developer Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/💻_Full_Stack-MERN-0D1117?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/⚛️_Frontend-React%20%7C%20Next.js-0D1117?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🔧_Backend-Node%20%7C%20Express-0D1117?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🤖_AI-Gemini%20%7C%20AI%20Apps-0D1117?style=for-the-badge" />
+
+</p>
 
 ---
 
