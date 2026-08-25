@@ -173,44 +173,21 @@ A containerized full-stack application demonstrating modern development and depl
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
-    width="100%"
-    alt="GitHub Profile Details"
-  />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img
-    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
-    width="49%"
-    alt="Repositories Per Language"
-  />
-
-  <img
-    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
-    width="49%"
-    alt="Most Commit Language"
-  />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
 </p>
 
 <p align="center">
-  <img
-    src="./profile-summary-card-output/github_dark/3-stats.svg"
-    width="49%"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
-    width="49%"
-    alt="Productive Time"
-  />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
 </p>
-
 ---
 
 # 🔥 GitHub Activity
