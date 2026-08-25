@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/yashdewangan850">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:yashdewangan850@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -24,13 +24,13 @@
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-**B.Tech Computer Science & Engineering graduate** and **Full Stack Developer** focused on building scalable, reliable and user-centric web applications.
+I'm a **B.Tech Computer Science & Engineering graduate** and a **Full Stack Developer** focused on building scalable, reliable and user-centric web applications.
 
-I work across the stack — from modern frontend architecture to backend APIs, databases and AI integrations — with an emphasis on **clean code, performance and maintainability**.
+I work across the stack — from modern frontend interfaces to backend APIs, databases and AI integrations — with a focus on **clean code, performance and maintainability**.
 
-- 🚀 Full Stack Development
+- 🚀 Full Stack Web Development
 - ⚛️ React.js · Next.js · TypeScript
 - 🔧 Node.js · Express.js · REST APIs
 - 🗄️ MongoDB · MySQL · SQLite
@@ -48,72 +48,201 @@ I work across the stack — from modern frontend architecture to backend APIs, d
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-### 🤖 AI Mock Interview Platform
+<table>
+<tr>
 
-AI-powered interview platform designed to simulate real interview experiences with automated evaluation, feedback, analytics and interview history.
+<td width="50%" valign="top">
 
-**React · Node.js · Express · SQLite · Google Gemini API**
+### 🤖 Ai_Interview
 
-### 🌐 Developer Portfolio
+AI-powered interview platform designed to help developers practice technical interviews and improve their preparation.
 
-Modern developer portfolio focused on performance, responsive design, animations and clean user experience.
+**Highlights**
 
-**Next.js · TypeScript · Tailwind CSS · Framer Motion**
+- AI-powered interview experience
+- Interview questions & evaluation
+- User-friendly interface
+- Real-world interview workflow
 
-### 📍 GPS Attendance System
+**Tech**
 
-Location-based attendance application with real-time geolocation and attendance tracking.
+`JavaScript` `React` `Node.js` `AI`
 
-**React.js · JavaScript · Tailwind CSS · Geolocation API**
+<p>
+<a href="https://github.com/yashdewangan850/Ai_Interview">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔎 Perplexity
+
+A JavaScript-based project inspired by modern AI search and information discovery experiences.
+
+**Highlights**
+
+- Modern search interface
+- Responsive UI
+- Interactive user experience
+- AI-inspired application flow
+
+**Tech**
+
+`JavaScript` `HTML` `CSS`
+
+<p>
+<a href="https://github.com/yashdewangan850/Perplexity">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Portfolio
+
+Personal developer portfolio showcasing projects, technical skills and professional profile.
+
+**Highlights**
+
+- Responsive design
+- Modern developer UI
+- Project showcase
+- Professional presentation
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
+
+<p>
+<a href="https://github.com/yashdewangan850/Portfolio">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💡 More Projects
+
+Explore my GitHub repositories for additional experiments, learning projects and development work.
+
+<p>
+<a href="https://github.com/yashdewangan850?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub
+# 📊 GitHub Analytics
 
 <p align="center">
+  <img
+    src="./profile/stats.svg"
+    width="49%"
+    alt="GitHub Statistics"
+  />
 
-<img src="https://img.shields.io/github/repos/yashdewangan850?style=for-the-badge&logo=github&label=Repositories" />
-
-<img src="https://img.shields.io/github/followers/yashdewangan850?style=for-the-badge&logo=github&label=Followers" />
-
-<img src="https://img.shields.io/github/stars/yashdewangan850?style=for-the-badge&logo=github&label=Stars" />
-
+  <img
+    src="./profile/top-langs.svg"
+    width="49%"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/yashdewangan850?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Explore%20My%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
+  <img
+    src="./profile/profile-details.svg"
+    width="100%"
+    alt="GitHub Profile Details"
+  />
 </p>
 
 ---
 
-## 🎯 Focus
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+    width="75%"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <b>Consistency builds great software. 🚀</b>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="./profile/activity.svg"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/yashdewangan850/yashdewangan850/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+# 🎯 Current Focus
 
 **Full Stack Engineering · Scalable Architecture · AI Applications · DSA · Open Source**
 
 ---
 
-## 💼 Open To
+# 💼 Open To
 
 **Full Stack Developer · MERN Stack Developer · React.js Developer · Software Developer**
 
 ---
 
-## 🤝 Connect
+# 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/yashdewangan850">
-  <img src="https://img.shields.io/badge/GitHub-Yash%20Dewangan-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/GitHub-Yash%20Dewangan-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
 </a>
 
 <a href="mailto:yashdewangan850@gmail.com">
-  <img src="https://img.shields.io/badge/yashdewangan850%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/yashdewangan850%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  />
 </a>
 
 </p>
