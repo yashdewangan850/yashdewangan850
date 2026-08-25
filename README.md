@@ -151,59 +151,7 @@ Explore my GitHub repositories for additional experiments, learning projects and
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    width="49%"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="./profile/top-langs.svg"
-    width="49%"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="./profile/profile-details.svg"
-    width="100%"
-    alt="GitHub Profile Details"
-  />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="./profile/streak.svg"
-    width="75%"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <b>Consistency builds great software. 🚀</b>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="./profile/activity.svg"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-
----
 
 # 🐍 Contribution Snake
 
