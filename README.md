@@ -2,13 +2,12 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=240&section=header&text=Yash%20Kumar%20Dewangan&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20React%20%7C%20Node.js%20%7C%20AI&descAlignY=58&descSize=18"
     width="100%"
-    alt="Yash Kumar Dewangan"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Exploring+AI+%26+Modern+Technologies"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Exploring+AI+%26+Modern+Technologies"
     alt="Typing Animation"
   />
 </p>
@@ -17,7 +16,6 @@
   <a href="https://github.com/yashdewangan850">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="mailto:yashdewangan850@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -77,16 +75,15 @@ I enjoy transforming ideas into practical digital products by combining modern f
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ## 🤖 AI Mock Interview Platform
 
-AI-powered platform designed to simulate real interview experiences.
+An AI-powered platform designed to simulate real interview experiences.
 
 ### Features
 
-- AI question generation
+- AI-generated interview questions
 - Automated answer evaluation
 - Interview feedback
 - Interview history
@@ -96,10 +93,9 @@ AI-powered platform designed to simulate real interview experiences.
 - PDF reports
 - Text-to-speech
 
-### Tech Stack
+**Tech Stack**
 
-`React.js` `Node.js` `Express.js`
-
+`React.js` `Node.js` `Express.js`  
 `SQLite` `Google Gemini API`
 
 </td>
@@ -108,7 +104,7 @@ AI-powered platform designed to simulate real interview experiences.
 
 ## 🌐 Developer Portfolio
 
-A modern developer portfolio designed to showcase projects, skills, experience and technical journey.
+A modern portfolio website showcasing projects, skills, experience and developer journey.
 
 ### Features
 
@@ -119,18 +115,15 @@ A modern developer portfolio designed to showcase projects, skills, experience a
 - Contact integration
 - Modern developer experience
 
-### Tech Stack
+**Tech Stack**
 
-`Next.js` `TypeScript`
-
+`Next.js` `TypeScript`  
 `Tailwind CSS` `Framer Motion`
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ## 📍 GPS Attendance System
@@ -144,10 +137,9 @@ A location-based attendance application using browser geolocation APIs.
 - Responsive dashboard
 - User-friendly interface
 
-### Tech Stack
+**Tech Stack**
 
-`React.js` `JavaScript`
-
+`React.js` `JavaScript`  
 `Tailwind CSS` `Geolocation API`
 
 </td>
@@ -158,14 +150,12 @@ A location-based attendance application using browser geolocation APIs.
 
 A containerized full-stack application demonstrating modern development and deployment workflows.
 
-### Tech Stack
+**Tech Stack**
 
-`React.js` `Node.js`
-
+`React.js` `Node.js`  
 `Docker` `Git`
 
 </td>
-
 </tr>
 </table>
 
@@ -223,84 +213,38 @@ A containerized full-stack application demonstrating modern development and depl
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Activity
 
 <p align="center">
+
+<a href="https://github.com/yashdewangan850">
   <img
-    src="https://streak-stats.demolab.com/?user=yashdewangan850&theme=tokyonight&hide_border=true&border_radius=12"
-    width="75%"
-    alt="GitHub Streak"
+    src="https://img.shields.io/badge/View%20GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white"
   />
+</a>
+
+<a href="https://github.com/yashdewangan850?tab=overview">
+  <img
+    src="https://img.shields.io/badge/View%20Profile%20Activity-2563EB?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
+</p>
+
+<p align="center">
+  <b>Building • Learning • Contributing • Improving 🚀</b>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 🐍 Contribution Snake
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yashdewangan850&theme=tokyo-night&hide_border=true&area=true&custom_title=Yash%20Kumar%20Dewangan%20-%20Contribution%20Activity"
+    src="https://raw.githubusercontent.com/yashdewangan850/yashdewangan850/output/github-contribution-grid-snake.svg"
     width="100%"
-    alt="GitHub Contribution Activity"
+    alt="GitHub Contribution Snake"
   />
-</p>
-
----
-
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/yashdewangan850/yashdewangan850/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/yashdewangan850/yashdewangan850/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/yashdewangan850/yashdewangan850/output/github-contribution-grid-snake.svg"
-      width="100%"
-      alt="GitHub Contribution Snake"
-    />
-
-  </picture>
-</p>
-
----
-
-# 📌 GitHub Highlights
-
-<p align="center">
-
-<img
-  src="https://img.shields.io/github/repos/yashdewangan850?style=for-the-badge&logo=github&label=Repositories"
-/>
-
-<img
-  src="https://img.shields.io/github/followers/yashdewangan850?style=for-the-badge&logo=github&label=Followers"
-/>
-
-<img
-  src="https://img.shields.io/github/stars/yashdewangan850?style=for-the-badge&logo=github&label=Stars"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-  src="https://img.shields.io/github/commit-activity/y/yashdewangan850/yashdewangan850?style=for-the-badge&logo=github&label=Commit%20Activity"
-/>
-
-<img
-  src="https://img.shields.io/github/last-commit/yashdewangan850/yashdewangan850?style=for-the-badge&logo=github&label=Latest%20Commit"
-/>
-
 </p>
 
 ---
@@ -319,17 +263,6 @@ A containerized full-stack application demonstrating modern development and depl
 
 ---
 
-# 📚 Currently Learning
-
-- Advanced React & Next.js
-- TypeScript
-- Backend Architecture
-- Docker & Cloud
-- AI Application Development
-- Data Structures & Algorithms
-
----
-
 # 💼 Open To Opportunities
 
 I'm currently interested in:
@@ -345,6 +278,26 @@ I'm also open to collaborating on **Web Development, AI and Open Source projects
 
 ---
 
+# 📈 GitHub Highlights
+
+<p align="center">
+
+<img
+  src="https://img.shields.io/github/repos/yashdewangan850?style=for-the-badge&logo=github&label=Repositories"
+/>
+
+<img
+  src="https://img.shields.io/github/followers/yashdewangan850?style=for-the-badge&logo=github&label=Followers"
+/>
+
+<img
+  src="https://img.shields.io/github/stars/yashdewangan850?style=for-the-badge&logo=github&label=Stars"
+/>
+
+</p>
+
+---
+
 # 🤝 Let's Connect
 
 <p align="center">
@@ -357,7 +310,7 @@ I'm also open to collaborating on **Web Development, AI and Open Source projects
 
 <a href="mailto:yashdewangan850@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Email-yashdewangan850-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
 
@@ -377,6 +330,5 @@ I'm also open to collaborating on **Web Development, AI and Open Source projects
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0f172a,100:020617&height=130&section=footer"
     width="100%"
-    alt="Footer"
   />
 </p>
