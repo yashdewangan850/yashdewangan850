@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">YASH KUMAR DEWANGAN&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 204, Total PRs: 3, Total Issues: 0, Contributed to (last year): 1</desc>
+        <title id="titleId">YASH KUMAR DEWANGAN&#39;s GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 210, Total PRs: 5, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 219.94692799969442;
+        stroke-dashoffset: 217.90624344859046;
       }
     }
   
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >204</text>
+      >210</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >3</text>
+      >5</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
